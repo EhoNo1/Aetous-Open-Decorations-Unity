@@ -7,7 +7,6 @@
 [] Fairylights
 [] Lantern
 [] Pergola
-[] Picknic Table
 [] Projector Tarp
 [] Rock1
 [] Rock2
