@@ -59,4 +59,4 @@ sysinfo.txt
 crashlytics-build.properties
 
 # git centric ignores
-/Aetous-Open-Decorations-Unity/.git/
+Aetous-Open-Decorations-Unity/.git/*
