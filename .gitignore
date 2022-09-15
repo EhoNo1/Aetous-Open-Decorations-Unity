@@ -58,3 +58,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# git centric ignores
+/Aetous-Open-Decorations-Unity/.git/
