@@ -3,7 +3,17 @@ guid: 5fc9294368ae8f84aa3da8d7fe3c732d
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete030 4K
+    second: {fileID: 2100000, guid: 42ffc04a22631204c8409772e924757d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sky
+    second: {fileID: 2100000, guid: 5e98c38d8dd9305458806c7c73cad185, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
