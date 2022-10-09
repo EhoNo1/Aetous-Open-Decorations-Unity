@@ -3,7 +3,12 @@ guid: 83adf58c0f7d4154d8fb413d07c7c053
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lantern
+    second: {fileID: 2100000, guid: fa42a50f27c28c0408e3e37fefb7103e, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
