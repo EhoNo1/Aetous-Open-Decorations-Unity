@@ -3,7 +3,27 @@ guid: cf9275b9ecbabf24199f4d6b6068c051
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base
+    second: {fileID: 2100000, guid: 7aa10d2cc995e244b89fdfdd5f6de881, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 18de32655a21c5042ae7dcf117b6c6b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lightbulb
+    second: {fileID: 2100000, guid: 41402fb5f972ebe46890c38e951cbd54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LightingElement
+    second: {fileID: 2100000, guid: 9ef2652309521ff4281ddbfb018833c2, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

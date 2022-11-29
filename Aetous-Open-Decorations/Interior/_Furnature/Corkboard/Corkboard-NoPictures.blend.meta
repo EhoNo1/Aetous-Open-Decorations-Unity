@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 32a9d2cf03b31c54aa388483b860508d
+guid: c3c9e6c7a0c0d5947ab84f73a60b0b44
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
@@ -7,13 +7,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Comforter
-    second: {fileID: 2100000, guid: a2c34556481c5e74fa9d825d95e8805a, type: 2}
+      name: Cork001 4K
+    second: {fileID: 2100000, guid: c8cd965a50b82c045826ce742e0bccc4, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Fabric
-    second: {fileID: 2100000, guid: 87c54468f90583b46953847f647e2cee, type: 2}
+      name: Pictures
+    second: {fileID: 2100000, guid: 9cd75e19fd6b10e4d916678aa0431118, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood85 4K
+    second: {fileID: 2100000, guid: 5338f49aba49d7b44829dd4050c7e58d, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -39,7 +44,8 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    extraUserProperties: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["Corkboard"],"padding":[21],"unwrapper":[0]}'
     clipAnimations: []
     isReadable: 0
   meshes:
@@ -55,7 +61,7 @@ ModelImporter:
     importLights: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
@@ -79,7 +85,7 @@ ModelImporter:
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips: []
-  importAnimation: 1
+  importAnimation: 0
   humanDescription:
     serializedVersion: 3
     human: []
@@ -98,7 +104,7 @@ ModelImporter:
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   autoGenerateAvatarMappingIfUnspecified: 1
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   avatarSetup: 0
   additionalBone: 0

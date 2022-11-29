@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 32a9d2cf03b31c54aa388483b860508d
+guid: 24396ce06ca689541b3a250c7454a7fc
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
@@ -7,13 +7,13 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Comforter
-    second: {fileID: 2100000, guid: a2c34556481c5e74fa9d825d95e8805a, type: 2}
+      name: Light
+    second: {fileID: 2100000, guid: b2bb35757830bd24988884cf77cff3e7, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Fabric
-    second: {fileID: 2100000, guid: 87c54468f90583b46953847f647e2cee, type: 2}
+      name: Metal
+    second: {fileID: 2100000, guid: 2795bad2f1c8de043a555f9eeff69c10, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -39,7 +39,8 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    extraUserProperties: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["Cylinder"],"padding":[99],"unwrapper":[0]}'
     clipAnimations: []
     isReadable: 0
   meshes:
@@ -55,7 +56,7 @@ ModelImporter:
     importLights: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
@@ -79,7 +80,7 @@ ModelImporter:
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips: []
-  importAnimation: 1
+  importAnimation: 0
   humanDescription:
     serializedVersion: 3
     human: []
@@ -98,7 +99,7 @@ ModelImporter:
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   autoGenerateAvatarMappingIfUnspecified: 1
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   avatarSetup: 0
   additionalBone: 0

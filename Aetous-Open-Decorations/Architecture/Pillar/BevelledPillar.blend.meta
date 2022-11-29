@@ -8,7 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Wood049 4K
-    second: {fileID: 2100000, guid: 6f608846347320849a9c3424b24f5dc6, type: 2}
+    second: {fileID: 2100000, guid: 0886c92084567a24f81778db890a166b, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -35,7 +35,7 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties:
-    - '#BAKERY{"meshName":["Cube"],"padding":[68],"unwrapper":[0]}'
+    - '#BAKERY{"meshName":["Cube"],"padding":[54],"unwrapper":[0]}'
     clipAnimations: []
     isReadable: 0
   meshes:
